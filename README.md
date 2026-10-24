@@ -24,8 +24,7 @@ Update: `brew upgrade --cask vitoudek/tap/topnotch` · Remove: `brew uninstall -
 Nothing is collected or sent to the author. Weather sends your location rounded to about 1 km to
 [Open-Meteo](https://open-meteo.com); lyrics send the title, artist and album of songs from music apps to
 [LRCLib](https://lrclib.net). Calendar, reminders and clipboard data never leave your Mac. Both online
-features can be switched off in Settings. Lyrics are off until you turn on **Show lyrics** in
-Settings → Media.
+features can be switched off in Settings.
 
 ## Terms
 
