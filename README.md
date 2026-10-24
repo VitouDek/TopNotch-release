@@ -24,10 +24,14 @@ Update: `brew upgrade --cask vitoudek/tap/topnotch` · Remove: `brew uninstall -
 Nothing is collected or sent to the author. Weather sends your location rounded to about 1 km to
 [Open-Meteo](https://open-meteo.com); lyrics send the title, artist and album of songs from music apps to
 [LRCLib](https://lrclib.net). Calendar, reminders and clipboard data never leave your Mac. Both online
-features can be switched off in Settings.
+features can be switched off in Settings. Lyrics are off until you turn on **Show lyrics** in
+Settings → Media.
 
 ## Terms
 
-TopNotch is free for personal use and provided **as is, without warranty of any kind**. The author is
-not liable for any damage or data loss arising from its use. It uses an undocumented macOS feature for
-"Now Playing", which a future macOS update may break.
+TopNotch is free for personal, non-commercial use and provided **as is, without warranty of any kind**;
+the author is not liable for any damage or data loss arising from its use. See [LICENSE](LICENSE). It
+uses an undocumented macOS feature for "Now Playing", which a future macOS update may break.
+
+Lyrics belong to their copyright holders and are fetched on your Mac from LRCLib; none are hosted here.
+TopNotch is not affiliated with or endorsed by Apple Inc.
